@@ -8,7 +8,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/edj-boston/monty-hall-go/lib/MontyHall"
+	"github.com/edj-boston/monty-hall-go"
 )
 
 func main() {

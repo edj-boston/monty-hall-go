@@ -1,7 +1,7 @@
 package montyhall
 
 import (
-	"github.com/edj-boston/monty-hall-go/lib/Game"
+	"github.com/edj-boston/monty-hall-go/game"
 )
 
 type MontyHall struct {
